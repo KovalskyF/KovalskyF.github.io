@@ -1,2 +1,1 @@
-# KovalskyF.github.io
-Homeworks and assignments
+Hello world!
