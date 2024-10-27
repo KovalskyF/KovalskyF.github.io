@@ -11,12 +11,13 @@ Hana Nakano
 [UXFolio](https://uxfol.io/p/hnakano/about)
 
 ## Number three
-Name
-[Text](Link)
+Allison Milchling
+
+[EarlyUX/Allison Milchling](https://www.earlyux.com/)
 
 ## Number four
 Name
 [Text](Link)
 
 
-[Draft bios](Drafts.md)
+[Draft bios >](Drafts.md)
