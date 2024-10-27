@@ -17,9 +17,8 @@ Allison Milchling
 
 ## Number four
 Sandra Ekpechi
+
 [Portfolio website](https://www.sandraekpechi.com/)
-
-
 
 ### My drafts
 [Draft bios >](Drafts.md)
