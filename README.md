@@ -7,4 +7,4 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 [Design manifesto](01_design_manifesto/My_manifesto.md)
 
 ### 02 - Presentation
-[Manifesto slides](/presentation/01.md)
+[Manifesto slides](01_design_manifesto/Presentation/01.md)
