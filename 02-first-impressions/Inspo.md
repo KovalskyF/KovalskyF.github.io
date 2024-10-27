@@ -6,8 +6,9 @@ Adham Dannaway
 [Portfolio website](https://www.adhamdannaway.com/about)
 
 ## Number two
-Name
-[Text](Link)
+Hana Nakano
+
+[UXFolio](https://uxfol.io/p/hnakano/about)
 
 ## Number three
 Name
