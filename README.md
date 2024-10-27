@@ -10,4 +10,5 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 [Manifesto slides](01_design_manifesto/Presentation/01.md)
 
 ### 03 - First impressions
-[Inspiration](02-first-impressions/Inspo.md)
+[Inspiration >](02-first-impressions/Inspo.md)
+[Drafts >](02-first-impressions/Drafts.md) 
