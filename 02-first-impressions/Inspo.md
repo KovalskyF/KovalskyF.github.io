@@ -13,7 +13,7 @@ Hana Nakano
 ## Number three
 Allison Milchling
 
-[EarlyUX/Allison Milchling](https://www.earlyux.com/)
+[EarlyUX/ Allison Milchling](https://www.earlyux.com/)
 
 ## Number four
 Name
