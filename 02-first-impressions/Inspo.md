@@ -17,4 +17,4 @@ Name
 [Text](Link)
 
 
-[Draft bios](Link)
+[Draft bios](Drafts.md)
