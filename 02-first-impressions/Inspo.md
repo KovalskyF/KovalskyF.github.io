@@ -1,4 +1,4 @@
-# Good bios
+# Inspiration
 
 ## Number one
 Adham Dannaway
@@ -19,5 +19,5 @@ Allison Milchling
 Name
 [Text](Link)
 
-
+### My drafts
 [Draft bios >](Drafts.md)
