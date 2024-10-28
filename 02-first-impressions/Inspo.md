@@ -20,5 +20,5 @@ Sandra Ekpechi
 
 [Portfolio website](https://www.sandraekpechi.com/)
 
-### My drafts
-[Draft bios >](Drafts.md)
+# My drafts
+[Draft bios >](Index.md)
