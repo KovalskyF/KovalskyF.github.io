@@ -17,3 +17,5 @@ Design can sometimes make things look more valuable than they are. For example, 
 
 ## Conclusion
 Design always involves manipulation, but it’s about how we use it. It can lead to clarity and help people, or it can be wasteful. My philosophy is to use design to improve people’s experiences and make life better.
+
+[< Slideshow >](01_design_manifesto/Presentation/01.md)
