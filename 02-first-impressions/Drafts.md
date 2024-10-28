@@ -28,4 +28,4 @@ I am a UI designer and design student based in Prague, passionate about creating
 I just finnished work on Prague Zoo app, that enhances the visitor experience. Currently, I am working on my undergraduate thesis focusing on creating an AR app. As I continue studying in graphic and media design, I am excited to explore new and meaningful ways to make everyday interactions more engaging.
 
 
-[< Back to inspiration >](Inspo.md)
+[< Back to inspiration](Inspo.md)
