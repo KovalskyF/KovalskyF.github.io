@@ -26,3 +26,6 @@ With a background in graphic and media design, I have carved out a specializatio
 
 I am a UI designer and design student based in Prague, passionate about creating intuitive user experiences for people. My work ranges from Apps and augmented reality projects to educational apps, always with a focus on making technology feel accessible and enjoyable.
 I just finnished work on Prague Zoo app, that enhances the visitor experience. Currently, I am working on my undergraduate thesis focusing on creating an AR app. As I continue studying in graphic and media design, I am excited to explore new and meaningful ways to make everyday interactions more engaging.
+
+
+[< Back to inspiration >](Inspo.md)
