@@ -35,6 +35,12 @@ Project caption:
 As the UI designer, I focused on creating an engaging, easy-to-navigate experience that enhances every visit.
 
 Project details:
+As the UI designer for the Zoo Praha app, I played a key role in creating an engaging, user-friendly experience for visitors exploring one of Prague’s most beloved attractions.
+The app has already gained thousands of users and has earned positive ratings on the App Store and Google Play, demonstrating its popularity and success in enhancing the visitor experience.
+
+About the app:
+My design approach focused on intuitive navigation and interactive features that allow users to make the most of their time at the zoo. From the interactive map, to animal guide and events, the app has become a digital companion for users of all ages.
+
 
 ### App and website for Czech tennis
 Project caption:
