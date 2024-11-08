@@ -52,4 +52,5 @@ WIP
 
 
 [ Landing page and project description | Figma prototype](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=0%3A1&node-id=23-18&node-type=canvas&viewport=-373%2C-377%2C0.64&t=dMmOXP1FBfqtJkxz-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=23%3A18&hide-ui=1)
+
 [< Back to inspiration](Inspo.md)
