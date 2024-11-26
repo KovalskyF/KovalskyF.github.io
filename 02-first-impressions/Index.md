@@ -10,6 +10,10 @@ I'm a UI designer and student with passion for digital design. Currently advanci
 
 I'm a graphic and UI designer blending technology and creativity to craft engaging digital interfaces. My work spans design of mobile apps, AR and educational platforms, with a keen interest in gamification and interactive design.
 
+### Revised 
+
+Hi there! I design apps that bring ideas to life—whether it’s mobile, AR, or education, I’m all about creating intuitive, engaging experiences.
+
 
 # Expanded format
 
@@ -26,6 +30,12 @@ With a background in graphic and media design, I have carved out a specializatio
 
 I am a UI designer and design student based in Prague, passionate about creating intuitive user experiences for people. My work ranges from Apps and augmented reality projects to educational apps, always with a focus on making technology feel accessible and enjoyable.
 I just finnished work on Prague Zoo app, that enhances the visitor experience. Currently, I am working on my undergraduate thesis focusing on creating an AR app. As I continue studying in graphic and media design, I am excited to explore new and meaningful ways to make everyday interactions more engaging.
+
+### Revised
+
+I’m a UI designer and graphic design student based in Prague, passionate about creating designs that feel just right. Over the years, I’ve worked on all kinds of projects—from crafting visual identities for brands and designing a board game to shaping the UI for the Prague Zoo app.
+I see my future in UI design, focusing mainly on apps, and I’m already working on exciting web and app projects. Right now, I’m also diving into my undergraduate thesis, where I’m creating an AR app, and working as a UI/UX designer at the Czech IT Academy.
+When I’m not designing, you’ll find me cooking (the best way to unwind!) or getting lost in games like Red Dead Redemption 2 to recharge.
 
 
 # Featured projects
