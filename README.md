@@ -14,4 +14,6 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Drafts >](02-first-impressions/Index.md) 
 
+[Final texts >](02-first-impressions/Final_texts.md)
+
 [Landing page and project description demo](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=0%3A1&node-id=23-18&node-type=canvas&viewport=-593%2C-102%2C0.35&t=WUpDh5W2tUZLsznx-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=23%3A18&hide-ui=1)
