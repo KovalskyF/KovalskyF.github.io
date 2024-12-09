@@ -17,4 +17,6 @@ When I’m not designing, I’m either cooking to relax or exploring games like 
 ![Projects](https://github.com/user-attachments/assets/48bbcc4b-ff83-4abd-97fa-fe9682b9bf69)
 
 ## Project breakdown
-[Figma >](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=0%3A1&node-id=58-79&node-type=canvas&viewport=-292%2C-13%2C0.2&t=sYWOnRSxafgFLn5f-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=23%3A18)
+[Figma Project breakdown page >](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=0%3A1&node-id=58-79&node-type=canvas&viewport=-292%2C-13%2C0.2&t=sYWOnRSxafgFLn5f-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=23%3A18)
+
+[Full demo >](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=0%3A1&node-id=23-18&node-type=canvas&viewport=-593%2C-102%2C0.35&t=WUpDh5W2tUZLsznx-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=23%3A18&hide-ui=1)
