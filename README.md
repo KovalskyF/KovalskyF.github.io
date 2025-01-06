@@ -16,4 +16,4 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Final texts >](02-first-impressions/Final_texts.md)
 
-[Landing page and project description demo](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=0%3A1&node-id=23-18&node-type=canvas&viewport=-593%2C-102%2C0.35&t=WUpDh5W2tUZLsznx-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=23%3A18&hide-ui=1)
+[Landing page and project description demo | I didn't like the previous version anymore, so I completely reworked it.](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=188%3A380&node-id=188-381&p=f&viewport=718%2C183%2C0.28&t=jy1GzbKm5gPkorfR-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=188%3A381&hide-ui=1)
