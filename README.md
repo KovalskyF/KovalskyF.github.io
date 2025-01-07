@@ -15,6 +15,8 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 [Drafts >](02-first-impressions/Index.md) 
 <br>
 <br>
+
+### Updates based on last lesson
 *Updates in texts and CTA's* <br>
 [Final texts >](02-first-impressions/Final_texts.md)
 <br>
