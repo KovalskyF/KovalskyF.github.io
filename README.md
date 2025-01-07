@@ -13,7 +13,12 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 [Inspiration >](02-first-impressions/Inspo.md)
 
 [Drafts >](02-first-impressions/Index.md) 
-
+<br>
+<br>
+*Updates in texts and CTA's* <br>
 [Final texts >](02-first-impressions/Final_texts.md)
-
-[Landing page and project description demo](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=188%3A380&node-id=188-381&p=f&viewport=718%2C183%2C0.28&t=jy1GzbKm5gPkorfR-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=188%3A381&hide-ui=1)
+<br>
+<br>
+<br>
+*Complete redesign from last version* <br>
+[Figma Demo](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=188%3A380&node-id=188-381&p=f&viewport=718%2C183%2C0.28&t=jy1GzbKm5gPkorfR-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=188%3A381&hide-ui=1)
