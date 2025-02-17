@@ -42,7 +42,7 @@ When I’m not designing, you’ll find me cooking (the best way to unwind!) or 
 
 ### App for Prague Zoo
 Project caption:
-As the UI designer, I focused on creating an engaging, easy-to-navigate experience that enhances every visit.
+How I created an App for Prague Zoo to attract new visitors and has thousands of downloads.
 
 Project details:
 As the UI designer for the Zoo Praha app, I played a key role in creating an engaging, user-friendly experience for visitors exploring one of Prague’s most beloved attractions.
