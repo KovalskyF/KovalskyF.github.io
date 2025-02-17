@@ -12,7 +12,9 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 ### 03 - First impressions
 [Inspiration >](02-first-impressions/Inspo.md)
 
-[Drafts >](02-first-impressions/Index.md) 
+[Drafts >](02-first-impressions/Index.md)
+
+[**Casestudy >**](02-first-impressions/Casestudy.md)
 <br>
 <br>
 
