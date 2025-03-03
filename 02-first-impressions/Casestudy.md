@@ -1,9 +1,8 @@
 
-# How I created an app for Prague Zoo that attracted new visitors and has thousands of downloads
-***Design adventure among elephants*** <br>
+# Design adventure among elephants
+***How I created an app for Prague Zoo that attracted new visitors and has thousands of downloads*** <br>
 
 > 5 min read <br>
-<br>
 
 ## When a student team can handle projects like a large development studio 
 - How lack of Zoo apps created potential for the creation of the Zoo Prague app
