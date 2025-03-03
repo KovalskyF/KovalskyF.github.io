@@ -19,12 +19,5 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 [**Visual storytelling >**](02-first-impressions/Visual_Storytelling.md)
 <br>
 <br>
-
-### Updates based on last lesson
-*Updates in texts and CTA's* <br>
-[Final texts >](02-first-impressions/Final_texts.md)
-<br>
-<br>
-<br>
-*Complete redesign from last version* <br>
+**Figma** <br>
 [Figma Demo](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=188%3A380&node-id=188-381&p=f&viewport=718%2C183%2C0.28&t=jy1GzbKm5gPkorfR-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=188%3A381&hide-ui=1)
