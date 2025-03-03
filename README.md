@@ -14,7 +14,9 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Drafts >](02-first-impressions/Index.md)
 
-[**Casestudy >**](02-first-impressions/Casestudy.md)
+[Casestudy >](02-first-impressions/Casestudy.md)
+
+[**Visual storytelling >**](02-first-impressions/Visual_Storytelling.md)
 <br>
 <br>
 
