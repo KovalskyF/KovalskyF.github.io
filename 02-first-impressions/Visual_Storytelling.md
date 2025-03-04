@@ -13,7 +13,7 @@
 **Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop**
 <br>
 <br>
-![Onboarding, Animations in onboarding to familiarize user with functions](/images/animations.gif)
+![Onboarding, Animations in onboarding to familiarize user with functions](/images/animations.mov)
 <br>
 **Onboarding, Animations in onboarding to familiarize user with functions**
 <br>
