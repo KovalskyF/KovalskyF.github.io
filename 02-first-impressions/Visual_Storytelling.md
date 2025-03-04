@@ -8,14 +8,17 @@
 [no image]
 
 ## 3 months and the UI is ready
-![Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop](map.png)
-![Onboarding, Animations in onboarding to familiarize user with functions](animations.gif)
-![Map Icons, Icons showing Zoo landmarks, Inspired by icon design in leaflet](icons.png)
+![Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop](/images/map.png)
+**Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop**
+<br>
+![Onboarding, Animations in onboarding to familiarize user with functions](/images/animations.gif)
+**Onboarding, Animations in onboarding to familiarize user with functions**
+<br>
+![Map Icons, Icons showing Zoo landmarks, Inspired by icon design in leaflet](/images/icons.png)
+**Map Icons, Icons showing Zoo landmarks, Inspired by icon design in leaflet**
+<br>
 
 ## 14 thousand downloads, I didn't make that up.
-- 10k downloads in three months (14k by the start of Mar 2025)
-- Average 4,85/5 stars on Play and Appstore
-- Mentions in the media
 <br>
 
 ![Google Analytics, Screenshot of analytics showing the grow of user base](/images/analytics.png)
