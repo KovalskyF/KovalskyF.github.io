@@ -23,7 +23,9 @@ When I took on the responsibility of designing the UI, I knew that speed was cru
 - **📍 Redesigning the entire zoo map**  
   The original map wasn’t designed for mobile navigation. I had to **redraw everything from scratch**, ensuring that it remained visually appealing while being functional as an interactive backdrop for navigation.  
 
-Image of the map (TK)
+![Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop](/images/map.png)
+<br>
+**Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop**
 
 - **🎬 Creating engaging onboarding animations**  
   First-time users needed a smooth introduction to the app. I designed a series of **animations** to make onboarding intuitive, guiding visitors through key features without overwhelming them.
