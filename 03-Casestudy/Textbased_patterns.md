@@ -23,20 +23,29 @@ When I took on the responsibility of designing the UI, I knew that speed was cru
 - **📍 Redesigning the entire zoo map**  
   The original map wasn’t designed for mobile navigation. I had to **redraw everything from scratch**, ensuring that it remained visually appealing while being functional as an interactive backdrop for navigation.  
 
-![Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop](/images/map.png)
+>![Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop](/images/map.png)
+>
+>Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop
 <br>
-**Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop**
+<br>
 
 - **🎬 Creating engaging onboarding animations**  
   First-time users needed a smooth introduction to the app. I designed a series of **animations** to make onboarding intuitive, guiding visitors through key features without overwhelming them.
 
-GIF of the animations (TK)
+>![Onboarding, Animations in onboarding to familiarize user with functions](/images/Animations.gif)
+>
+>Onboarding, Animations in onboarding to familiarize user with functions
+<br>
+<br>
 
 - **🏷️ Icon design for clarity**  
   A zoo app has many different categories: animals, events, food stands, and attractions. **Custom icons** were essential to ensure everything was instantly recognizable and easy to navigate.  
 
-Image of icons (TK)
-
+>![Map Icons, Icons showing Zoo landmarks, Inspired by icon design in leaflet](/images/icons.png)
+>
+>Map Icons, Icons showing Zoo landmarks, Inspired by icon design in leaflet
+<br>
+<br>
 ---
 
 ## **12 thousand downloads, I didn't make that up**  
@@ -47,8 +56,16 @@ Numbers don’t lie. The Zoo Praha app saw **10,000 downloads within the first t
 But downloads alone don’t define success. The **average rating** on both Google Play and the App Store is an impressive **4.85/5 stars**, proving that users appreciate the app’s functionality and design.  
 
 The app even caught the attention of media outlets, resulting in several articles highlighting our work and its impact:  
-- [Article 1 (TK)]  
-- [Article 2 (TK)]  
-- [Article 3 (TK)]  
 
-_Image of Google Analytics (TK)_  
+>![Google Analytics, Screenshot of analytics showing the grow of user base](/images/analytics.png)
+>
+>Google Analytics, Screenshot of analytics showing the grow of user base
+<br>
+
+>[Link to article on Metro.cz](https://www.metro.cz/praha/od-lednich-medvedu-k-vombatovi-jen-za-sest-minut-vyzkouseli-jsme-novou-aplikaci-zoo-praha.A241014_165353_metro-praha_mjafi)
+<br>
+
+>[Link to article on iDnes.cz](https://www.idnes.cz/zpravy/domaci/aplikace-zoo-praha-navigace-vstupenka-pruvodce-troja.A241029_064605_domaci_dyn)
+<br>
+
+>[Link to artcile on Aktualne.cz](https://zpravy.aktualne.cz/domaci/prazska-zoo-nova-mobilni-aplikace-studenti/r~60506514896f11ef95ee0cc47ab5f122/)
