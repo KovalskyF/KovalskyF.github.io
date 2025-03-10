@@ -48,10 +48,10 @@ When I took on the responsibility of designing the UI, I knew that speed was cru
 <br>
 ---
 
-## **12 thousand downloads, I didn't make that up**  
-> "From zero to 12,000 downloads – and counting!"  
+## **14 thousand downloads, I didn't make that up**  
+> "From zero to 14,000 downloads – and counting!"  
 
-Numbers don’t lie. The Zoo Praha app saw **10,000 downloads within the first three months**, reaching **12,000 by mid-February 2025**. That’s a huge milestone for a project developed by a student team.  
+Numbers don’t lie. The Zoo Praha app saw **10,000 downloads within the first three months**, reaching **14,000 by mid-February 2025**. That’s a huge milestone for a project developed by a student team.  
 
 But downloads alone don’t define success. The **average rating** on both Google Play and the App Store is an impressive **4.85/5 stars**, proving that users appreciate the app’s functionality and design.  
 
