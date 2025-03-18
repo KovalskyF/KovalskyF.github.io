@@ -19,7 +19,7 @@ That’s when we saw an opportunity. Along with a small but highly motivated tea
 
 When I took on the responsibility of designing the UI, I knew that speed was crucial. We had ambitious goals and a short timeframe. In just **three months**, I crafted the complete user interface, overcoming several major challenges along the way.
 
->[Image showing key features of the app.](/images/screenshots.jpeg)
+>[Image showing key features of the app.](/images/Screenshots.jpg)
 >
 >Image showing key features of the app.
 <br>
@@ -29,7 +29,7 @@ When I took on the responsibility of designing the UI, I knew that speed was cru
 - **📍 Redesigning the entire zoo map**  
   The original map wasn’t designed for mobile navigation. I had to **redraw everything from scratch**, ensuring that it remained visually appealing while being functional as an interactive backdrop for navigation.  
 
->![Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop](/images/map.png)
+>![Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop](/images/Map.png)
 >
 >Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop
 <br>
