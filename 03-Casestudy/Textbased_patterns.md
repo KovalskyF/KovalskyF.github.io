@@ -19,7 +19,7 @@ That’s when we saw an opportunity. Along with a small but highly motivated tea
 
 When I took on the responsibility of designing the UI, I knew that speed was crucial. We had ambitious goals and a short timeframe. In just **three months**, I crafted the complete user interface, overcoming several major challenges along the way.
 
-[Image showing key features of the app.](/images/Screenshots.jpg)
+>[Image showing key features of the app](/images/Screenshots.jpg)
 >
 >Image showing key features of the app.
 <br>
