@@ -25,7 +25,7 @@ When I took on the responsibility of designing the UI, I knew that speed was cru
 <br>
 <br>
 
-### **The biggest challenges?**  
+## **The biggest challenges?**  
 - **📍 Redesigning the entire zoo map**  
   The original map wasn’t designed for mobile navigation. I had to **redraw everything from scratch**, ensuring that it remained visually appealing while being functional as an interactive backdrop for navigation.  
 
