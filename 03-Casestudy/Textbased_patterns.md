@@ -17,7 +17,13 @@ That’s when we saw an opportunity. Along with a small but highly motivated tea
 ## **3 months and the UI is ready**  
 > Designing an entire UI in just three months? Challenge accepted.  
 
-When I took on the responsibility of designing the UI, I knew that speed was crucial. We had ambitious goals and a short timeframe. In just **three months**, I crafted the complete user interface, overcoming several major challenges along the way.  
+When I took on the responsibility of designing the UI, I knew that speed was crucial. We had ambitious goals and a short timeframe. In just **three months**, I crafted the complete user interface, overcoming several major challenges along the way.
+
+>[Image showing key features of the app.](images/screenshots.jpeg)
+>
+>Image showing key features of the app.
+<br>
+<br>
 
 ### **The biggest challenges?**  
 - **📍 Redesigning the entire zoo map**  
