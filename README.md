@@ -11,6 +11,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 :link: [Design manifesto >](01_design_manifesto/My_manifesto.md)
 
 :link: [Manifesto slides >](01_design_manifesto/Presentation/01.md)
+
 </details>
 
 <details>
@@ -22,6 +23,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 :link: [Drafts >](02-first-impressions/Index.md)
 
 :link: [Casestudy >](02-first-impressions/Casestudy.md)
+
 </details>
 
 <details>
@@ -33,6 +35,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 :link: [Visual storytelling >](03-Casestudy/Visual_Storytelling.md)
 
 :link: [Textbased patterns >](03-Casestudy/Textbased_patterns.md)
+
 </details>
 
 <details>
@@ -40,6 +43,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 <br>
 
 :link: [Mindmap >](04-Storytelling/Mindmap.md)
+
 </details>
 
 <details>
@@ -47,5 +51,6 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 <br>
 
 :link: [Figma Demo](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=188%3A380&node-id=188-381&p=f&viewport=718%2C183%2C0.28&t=jy1GzbKm5gPkorfR-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=188%3A381&hide-ui=1)
+
 </details>
 
