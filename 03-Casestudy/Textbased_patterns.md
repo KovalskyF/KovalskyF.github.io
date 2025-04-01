@@ -1,16 +1,20 @@
-# **Design adventure among elephants**  
-***How I created an app for Prague Zoo that attracted new visitors and has thousands of downloads***  
+# When a student team can handle projects like a large development studio 
+*Design adventure among elephants* 
 
-> **5 min read**  
+>![Image showing key features of the app](/images/Zoo_appka.jpg)
 
-## **When a student team can handle projects like a large development studio**  
 > "There was no app worth using, so we built our own."  
 
 Zoos are visited by millions of people every year, yet very few of them offer a functional and user-friendly mobile app. When we started researching the market, we were surprised to find that most zoo apps were either outdated, hard to navigate, or simply unusable.  
 
-Only two apps really stood out: the **Singapore Mandai app** and the **Rotterdam Zoo app**. Both provided a seamless experience, interactive maps, and useful features for visitors. But why should only two zoos in the world have great apps?  
+Only two apps really stood out: the **Singapore Mandai app** and the **Rotterdam Zoo app**. Both provided a seamless experience, interactive maps, and useful features for visitors. But why should only two zoos in the world have great apps?
 
-That’s when we saw an opportunity. Along with a small but highly motivated team of student developers under the Czech IT Academy (our average age was just **21 years**), we embarked on a year-long journey to create an app that would not only enhance the visitor experience at **Zoo Praha** but also set a new standard for zoo apps worldwide.  
+>![Mandai and Rotterdam apps](/images/mandai_and_rotterdam.jpg)
+
+## The team
+That’s when we saw an opportunity. Along with a small but highly motivated team of student developers under the Czech IT Academy (our average age was just **21 years**), we embarked on a year-long journey to create an app that would not only enhance the visitor experience at **Zoo Praha** but also set a new standard for zoo apps worldwide.
+
+>![Czech IT Accademy team](/images/czechITaccadmy.jpg)
 
 ---
 
