@@ -1,7 +1,7 @@
 # When a student team can handle projects like a large development studio 
 *Design adventure among elephants* 
 
->![App in hand](/images/Zoo_appka.jpg)
+>![App in hand](/images/Zoo_appka.jpeg)
 
 > "There was no app worth using, so we built our own."  
 
