@@ -31,7 +31,8 @@ When I took on the responsibility of designing the UI, I knew that speed was cru
 
 ## **The biggest challenges?**  
 - **📍 Redesigning the entire zoo map**  
-  The original map wasn’t designed for mobile navigation. I had to **redraw everything from scratch**, ensuring that it remained visually appealing while being functional as an interactive backdrop for navigation.  
+  The zoo provided us with an Illustrator document that they use to print DL flyers. We needed the map as a backdrop for the Seznam.cz map navigation API. Unfortunately, after the first set of tests I found that the whole map was offset by about 3 meters and also the SVG was extremely large and could not be used. So I had to redraw the whole map to use it as a backdrop. Then we started another series of tests, the map was correct, it was positioned correctly, but it was huge. I chopped off everything that didn't need to be there and simplified the curves as much as possible. I went from about 500 kB to 63 kB. Now the map is optimized even for slow phones.
+
 
 >![Prague Zoo Map, Map of Prague Zoo known from DL leaflet used as a navigation backdrop](/images/Map.png)
 >
@@ -40,7 +41,8 @@ When I took on the responsibility of designing the UI, I knew that speed was cru
 <br>
 
 - **🎬 Creating engaging onboarding animations**  
-  First-time users needed a smooth introduction to the app. I designed a series of **animations** to make onboarding intuitive, guiding visitors through key features without overwhelming them.
+  Honestly, I hate animation. I can appreciate nice motion design, but I can't do it myself. The brain cells responsible for animation are just not present.
+I struggled with this for about a week, I knew we needed nice animations for onboarding and I had to overcome the problem. In the end, despite the fact that animations are not really my thing, we used them and the client was happy with them.
 
 >![Onboarding, Animations in onboarding to familiarize user with functions](/images/Animations.gif)
 >
@@ -49,7 +51,10 @@ When I took on the responsibility of designing the UI, I knew that speed was cru
 <br>
 
 - **🏷️ Icon design for clarity**  
-  A zoo app has many different categories: animals, events, food stands, and attractions. **Custom icons** were essential to ensure everything was instantly recognizable and easy to navigate.  
+  A zoo app has many different categories: animals, events, food stands, and attractions. **Custom icons** were essential to ensure everything was instantly recognizable and easy to navigate.
+I designed the missing icons based on photos from the internet. From left: Main entrance, lower station of the cable car, upper station of the cable car
+
+>![Icons in map](/images/icons_in_map.png)
 
 >![Map Icons, Icons showing Zoo landmarks, Inspired by icon design in leaflet](/images/icons.png)
 >
