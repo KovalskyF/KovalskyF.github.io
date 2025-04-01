@@ -14,7 +14,7 @@ Only two apps really stood out: the **Singapore Mandai app** and the **Rotterdam
 ## The team
 That’s when we saw an opportunity. Along with a small but highly motivated team of student developers under the Czech IT Academy (our average age was just **21 years**), we embarked on a year-long journey to create an app that would not only enhance the visitor experience at **Zoo Praha** but also set a new standard for zoo apps worldwide.
 
-![Czech IT Accademy team](/images/czechITaccadmy.jpg)
+![Czech IT Accademy team](/images/CzechITAccademyteam.jpeg)
 
 ---
 
