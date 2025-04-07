@@ -64,24 +64,51 @@ I designed the missing icons based on photos from the internet. From left: Main 
 
 ---
 
-## **14 thousand downloads, I didn't make that up**  
-> "From zero to 14,000 downloads – and counting!"  
+## **We are approaching 20,000 users. And the numbers keep growing**  
+> "From zero to 19,000 downloads – and counting!"  
 
-Numbers don’t lie. The Zoo Praha app saw **10,000 downloads within the first three months**, reaching **14,000 by mid-February 2025**. That’s a huge milestone for a project developed by a student team.  
-
-But downloads alone don’t define success. The **average rating** on both Google Play and the App Store is an impressive **4.85/5 stars**, proving that users appreciate the app’s functionality and design.  
-
-The app even caught the attention of media outlets, resulting in several articles highlighting our work and its impact:  
+Numbers don’t lie. The Zoo Praha app saw **10,000 downloads within the first three months**, reaching **20,000 by mid-April 2025**. The total revenue of tickets sold in the app is more than 800 thousand crowns, i.e. approximately 35,000 USD. That’s a huge milestone for a project developed by a student team.
 
 >![Google Analytics, Screenshot of analytics showing the grow of user base](/images/analytics.png)
 >
 >Google Analytics, Screenshot of analytics showing the grow of user base
 <br>
 
->[Link to article on Metro.cz](https://www.metro.cz/praha/od-lednich-medvedu-k-vombatovi-jen-za-sest-minut-vyzkouseli-jsme-novou-aplikaci-zoo-praha.A241014_165353_metro-praha_mjafi)
+But downloads alone don’t define success. The **average rating** on both Google Play and the App Store is an impressive **4.85/5 stars**, proving that users appreciate the app’s functionality and design.
+
+### Rating
+
+>"The app looks great. It’s a good helper. But I’m really missing info about how busy the zoo is."
+>– Anonymous User
+
+>"It’s clear and reacts well to zooming. I just expected a photo and description to show when clicking on an animal point."
+>– Hynek Beran
+
+>"Nice app, simple to use, packed with info."
+>– Anonymous User
+
+>"The app is pretty good, but the map is very basic. I miss a direct link to the animal catalog."
+>– Pavel H.
+
+>"Zoo Praha surprises with stability, great design and detailed content. I recommend adding a fundraising module!"
+>– Jaroslav Jičínský
+
+>"Clicking on animals should open detailed descriptions. It would be great to add visitor numbers, parking status, or gamification."
+>– Honza Vošalík
+
+>"The app is nicely made. I only miss the feeding times and event information."
+>– Lenka Tománková
+
+### Media
+The app even caught the attention of media outlets, resulting in several articles highlighting our work and its impact
+
+### Metro.cz
+>For the first time, we enter Zoo Prague through the Sklenářka entrance while testing a new mobile app. This offers an interactive map, animal feeding alerts, species profiles and route tips. Thanks to it, we know which way to eat, where the toilets are - and we can save money on the entrance fee. [Article >](https://www.metro.cz/praha/od-lednich-medvedu-k-vombatovi-jen-za-sest-minut-vyzkouseli-jsme-novou-aplikaci-zoo-praha.A241014_165353_metro-praha_mjafi)
 <br>
 
->[Link to article on iDnes.cz](https://www.idnes.cz/zpravy/domaci/aplikace-zoo-praha-navigace-vstupenka-pruvodce-troja.A241029_064605_domaci_dyn)
+### iDnes.cz
+>Zoo Prague has introduced a new mobile app that offers visitors an interactive map of the premises, the opportunity to purchase tickets, profiles of the species kept and notifications about feeding the animals. The app makes it easier to navigate the zoo and provides useful information for a better visit experience. [Article >](https://www.idnes.cz/zpravy/domaci/aplikace-zoo-praha-navigace-vstupenka-pruvodce-troja.A241029_064605_domaci_dyn)
 <br>
 
->[Link to artcile on Aktualne.cz](https://zpravy.aktualne.cz/domaci/prazska-zoo-nova-mobilni-aplikace-studenti/r~60506514896f11ef95ee0cc47ab5f122/)
+### Aktualne.cz
+>The Prague Zoo has introduced a new mobile app that makes it easier for visitors to navigate the grounds, purchase tickets and provide information about planned events at individual exhibitions. The app was developed by students of the Czech IT Academy, which brings together talented high school and university students, allowing them to work on real projects while studying. [Article >](https://zpravy.aktualne.cz/domaci/prazska-zoo-nova-mobilni-aplikace-studenti/r~60506514896f11ef95ee0cc47ab5f122/)
