@@ -24,7 +24,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Visual storytelling >](03-Casestudy/Visual_Storytelling.md)
 
-[Textbased patterns >](03-Casestudy/Textbased_patterns.md)
+[Final version (WIP) >](03-Casestudy/Case_study_final.md)
 
 ### 04 - Storytelling
  
