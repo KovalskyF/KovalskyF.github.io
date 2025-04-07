@@ -9,7 +9,7 @@ Zoos are visited by millions of people every year, yet very few of them offer a 
 
 Only two apps really stood out: the **Singapore Mandai app** and the **Rotterdam Zoo app**. Both provided a seamless experience, interactive maps, and useful features for visitors. But why should only two zoos in the world have great apps?
 
-![Mandai and Rotterdam apps](/images/mandai_and_rotterdam.jpg)
+![Mandai and Rotterdam apps](/images/mandai_and_rotterdam.png)
 
 ## The team
 That’s when we saw an opportunity. Along with a small but highly motivated team of student developers under the Czech IT Academy (our average age was just **21 years**), we embarked on a year-long journey to create an app that would not only enhance the visitor experience at **Zoo Praha** but also set a new standard for zoo apps worldwide.
