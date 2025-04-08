@@ -69,8 +69,8 @@ I designed the missing icons based on photos from the internet. From left: Main 
 
 Numbers don’t lie. The Zoo Praha app saw **10,000 downloads within the first three months**, reaching **20,000 active users by mid-April 2025**. The total revenue of tickets sold in the app is more than 800 thousand crowns, i.e. approximately 35,000 USD. That’s a huge milestone for a project developed by a student team.
 
->![Google Analytics, Screenshot of analytics showing the grow of user base](/images/analytics.png)
->
+![Google Analytics, Screenshot of analytics showing the grow of user base](/images/analytics.png)
+
 >Google Analytics, Screenshot of analytics showing the grow of user base
 <br>
 
