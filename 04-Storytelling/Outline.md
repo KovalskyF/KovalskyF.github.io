@@ -14,6 +14,7 @@ That's more than with my girlfriend.
 More than with my friends.
 
 ### Slide 4
+
 | Figma      | Girlfriend |
 | :---------:| :--------: |
 | 1485 hours | 624 hours  |
