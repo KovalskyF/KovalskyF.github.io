@@ -86,7 +86,7 @@ That's not a joke. That's typical wednesday.
 
 ---
 
-### Focusing on the work is the biggest challange of them all.
+### Focusing on the work is the biggest challaege of them all.
 
 **To say:**
 
