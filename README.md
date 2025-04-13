@@ -29,6 +29,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 ### 04 - Storytelling
  
 [Mindmap >](04-Storytelling/Mindmap.md)
+
 [Outline >](04-Storytelling/Outline.md)
 
 ### Figma
