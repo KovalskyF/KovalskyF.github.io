@@ -8,15 +8,11 @@ I've spent more time with Figma in the last year than I have with my girlfriend.
 
 ---
 
-### Slide 2
+### 1485 hours
 
 That's more than with my girlfriend.
 
 More than with my friends.
-
----
-
-### 1485 hours
 
 ---
 
