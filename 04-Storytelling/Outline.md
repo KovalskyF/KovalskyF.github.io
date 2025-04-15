@@ -86,7 +86,7 @@ That's not a joke. That's typical wednesday.
 
 ---
 
-### Focusing on the work is the biggest challaege of them all.
+### Focusing on the work is the biggest challenge of them all.
 
 **To say:**
 
@@ -94,7 +94,7 @@ Focus is not a given. But a good tool doesn't take it away. On the contrary.
 
 ---
 
-### Why good tool matter
+### Why good tools matter
 
 Good tools make you better — not because they’re pro, but because they don’t get in the way.
 
