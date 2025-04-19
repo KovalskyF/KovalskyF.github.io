@@ -19,6 +19,7 @@ More than with my friends.
 
 
 **To say:**
+
 That’s over 60 full days – three months of non-stop clicking, dragging, renaming frames, deleting, and starting again.
 More than with my girlfriend. More than with my friends. More than with anything, really.
 
@@ -48,6 +49,7 @@ On the contrary, I spent more than 600 hours with my girlfriend, it has its reas
 *if your coworker is not a complete ass
 
 **To say:**
+
 Pros: Never argues. Has variables. Auto Layout on demand. Real-time collaboration – with zero drama* (*unless your coworker is a complete ass).
 Cons? None.
 
