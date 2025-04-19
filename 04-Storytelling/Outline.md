@@ -214,6 +214,20 @@ After years of using complex tools, I realized the best tool is the one that doe
 
 ### After-credit scenes
 And since I promised to show you different plugins and tips in my first mindmap, here are a few.
+
+**Variables**
+
+Columns - Light mode and darkmode 
+In rows I defined Fill and stroke
+
+When I close the library, I assigned it to that frame. Now I can easily switch between two modes. But you can add even more. With student licence - up to four. 
+
+Also, notice that frame now has label with the used variable. 
+
+You can easily create libraries for everything. It has number and text variables. For example, you can change font based on screen you are working in. Are you designing for Apple, create variable with SF font, designing for Adroid? Add Roboto as a second mode. Now you can switch between.
+
+I borrowed library from Tomáš's final thesis, which I helped him with. As you can see, Its way more complex. We have a library for whole document. In this screen you can see shades as in Material Design. We defined shades from 50 to 950. And also we defined Base color, where we said it is shade 500 from the same library. But it helps us to know which is the main color. 
+
 - Progressive blur
 - Noise & texture
 - Specs
