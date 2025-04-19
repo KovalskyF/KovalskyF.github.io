@@ -4,7 +4,10 @@ Figma is not just a tool, it's a lifestyle
 
 **To say:**
 
-I've spent more time with Figma in the last year than I have with my girlfriend. Or myself. And certainly more than any other tool.
+Hello everyone!
+Thanks for being here.
+Today I want to talk about something very personal. Figma.
+Because in the past year, I’ve spent more time with Figma than with my girlfriend. Or with myself. Or with any other tool, really. And that's both funny... and a bit terrifying.
 
 ---
 
@@ -13,6 +16,11 @@ I've spent more time with Figma in the last year than I have with my girlfriend.
 That's more than with my girlfriend.
 
 More than with my friends.
+
+
+**To say:**
+That’s over 60 full days – three months of non-stop clicking, dragging, renaming frames, deleting, and starting again.
+More than with my girlfriend. More than with my friends. More than with anything, really.
 
 ---
 
@@ -24,7 +32,7 @@ More than with my friends.
 
 **To say**
 
-That's over 60 days. Two months of nonstop clicking, scrolling, deleting and thinking. And yeah, I did the math. Roughly 4.5 hours a day, 11 months straight (without holidays, sick days and so on).
+On the contrary, I spent more than 600 hours with my girlfriend, it has its reasons, she is not from Prague. We can see each other only on the weekend, but anyway I spent two times more time with Figma. It got me thinking. Why? So I made a comparison.
 
 ---
 
@@ -39,6 +47,10 @@ That's over 60 days. Two months of nonstop clicking, scrolling, deleting and thi
 
 *if your coworker is not a complete ass
 
+**To say:**
+Pros: Never argues. Has variables. Auto Layout on demand. Real-time collaboration – with zero drama* (*unless your coworker is a complete ass).
+Cons? None.
+
 ---
 
 ### Simplicity, not simplification
@@ -48,7 +60,8 @@ From Manifesto:
 
 **To say:**
 
-Why am I such an advocate of Figma? I wrote in the manifesto that true simplicity is not about having less, but about having only what makes sense. And that's what I learned in my year at Figma.
+Simplicity is not about less. It’s about only what makes sense.
+Tools shape how we think. And Figma shapes mine in a way that helps me focus.
 
 ---
 
@@ -70,29 +83,28 @@ Imagine designing on bench in a busy train station...
 
 **To say:**
 
-People around you, the noise, the announcements, the sore back from that awful bench you're sitting on... it's hard to concentrate. And that's how I feel sometimes with tools that make my job harder rather than easier.
+People around you, the noise, the announcements, the sore back from that awful bench you're sitting on... it's hard to concentrate. That's what using bad tools feels like. Distracting. Uncomfortable. It kills focus.
 
 Design is not only about the result, but also about the environment in which it is created. Even when it's digital.
 
 ---
 
 ### Everyday useflow
+How it goes:
 
-[Working on a project] -> [Encounter a problem] -> [Want to solve a problem] -> [Start Googling the solution] -> [Opens a Reddit thread from 2017 mentioning the problem] -> [Starts reading the comments] -> [Suddenly getting offtopic] -> [Notification from Tomáš - sent a reel on Instagram] -> [Watch a reel] -> [another, another ...] -> [One hour gone] -> [What was I solving again?] -> back to start
-
-**To say:**
+1. Start project
+2. Hit a problem
+3. Google it
+4. Reddit 2017
+5. Comments
+6. Tomáš sends a reel
+7. Watch it… and another
+8. One hour gone
+“What was I solving again?”
 
 That's not a joke. That's typical wednesday.
-
----
-
-### Focusing on the work is the biggest challenge of them all.
-
-**To say:**
-
-Focus is not a given. But a good tool doesn't take it away. On the contrary.
-
----
+Focusing on the work is the biggest challenge of them all.
+Focus is not a given. But a good tool doesn't take it away.
 
 ### Why good tools matter
 
@@ -100,7 +112,7 @@ Good tools make you better — not because they’re pro, but because they don�
 
 **To say:**
 
-With the right tools, you'll become a better designer. Not because they're more "pro", but because they don't distract you and you can focus better on what you do. And because of that, you learn more in less time.
+Because good tools don’t make you better by being “pro.” They make you better by getting out of the way.
 
 ---
 
@@ -123,20 +135,24 @@ Looks good ≠ is good
 
 One of the things Figma really taught me is to know the difference between what looks good... and what is good.
 
-- In Figma, you can't hide behind complexity.
-- It takes a few hours to learn - and then you have no choice but to deal with the content.
-- You don't fake "value" with effects, layers or complex tools.
-- Either it works or it doesn't.
+It takes a few hours to learn, In Figma, you can’t hide behind fancy effects. It either works or it doesn’t.
 
 ---
 
 ### Iterations, iterations...
 In Figma, deleting your project is no big deal.
+Delete the whole file and start again. Explore. Experiment. Play.
 In Unreal, Cinema4D or Illustrator? That’s a mini existential crisis.
 
 **To say:**
 
-I often find that when I use software that has a much longer learning curve (like Unreal Engine, Cinema4D, or Adobe software), I stop focusing on whether the work is actually good. And also you don't want to redo those things because you're kind of proud that you've at least done that. That's not gonna happen in Figma. You can delete the whole project and it doesn't matter. Because it's not a problem to finish a new and better version, because it's easy to do and also pretty quick.
+I often find that when I use software that has a much longer learning curve (like Unreal Engine, Cinema4D, or Adobe software), I stop focusing on whether the work is actually good.
+
+And also you don't want to redo those things because you're kind of proud that you've at least done that.
+
+That's not gonna happen in Figma. You can delete the whole project and it doesn't matter.
+
+Because it's not a problem to finish a new and better version, because it's easy to do and also pretty quick.
 
 ---
 
@@ -158,7 +174,7 @@ And the idea starts getting lost in layers and masks and windows.
 Skill gap kills creativity.
 Not because of laziness. It's the barriers.
 
-In Figma, you can iterate and iterate. The only limit is your own imagination. And if you do run into the problem that you just can't do it in Figma? There's probably a plugin for that.
+In Figma, you can play. The only limit is your own imagination. And if you do run into the problem that you just can't do it in Figma? There's probably a plugin for that.
 
 ---
 
@@ -166,6 +182,10 @@ In Figma, you can iterate and iterate. The only limit is your own imagination. A
 >Just because I know how to use a lawnmower doesn't make me a landscaper.
 
 **To say:**
+
+But… beware the Figma illusion.
+Just because you can click around, doesn’t mean you can design.
+Design is not about what one likes. It’s about what works.
 
 Figma is great because it's accessible.
 But sometimes that's where its greatest risk lies.
@@ -178,20 +198,15 @@ It's not a question of ego. It's a question of experience.
 
 Too often design feels like a space where everyone can contribute - but not everyone should be making decisions.
 
-Design is not about what one likes. It's about what works.
-
 And while Figma looks simple, making design decisions is not.
-
-Image (TK) This button should be bigger. Just because.
 
 ---
 
 ### Last slide
-Thank you for accompanying me on my journey of testimony about frustration with tools, feigned simplicity, and unexpected love for Figma.
 
-Maybe it was a little therapy...
+So thanks for joining me on this little design therapy session.
 
-...but at least I didn't have to pay $50 a month for Adobe.
+After years of using complex tools, I realized the best tool is the one that doesn’t get in the way.
 
 ---
 
@@ -204,3 +219,6 @@ And since I promised to show you different plugins and tips in my first mindmap,
 - Spelll
 - Easy Color and token generator
 - 3D for XR
+
+If you need Figma help, tips or just a tool rant – talk to me.
+Thanks! 
