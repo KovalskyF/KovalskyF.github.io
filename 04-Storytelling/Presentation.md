@@ -12,6 +12,7 @@ For me, it is the second most distraction free environment (after the piece of p
 
 ## New outline
 When I had a new mindmap I started working on the Outline.
+
 🔗 [Outline](/04-Storytelling/Outline.md)
 
 ## Final presentation
