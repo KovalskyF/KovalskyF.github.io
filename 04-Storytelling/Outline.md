@@ -92,6 +92,7 @@ Design is not only about the result, but also about the environment in which it 
 ---
 
 ### Everyday useflow
+
 How it goes:
 
 1. Start project
@@ -131,6 +132,7 @@ Comments → learn how to communicate clearly
 ---
 
 ### False value vs. real value
+
 Looks good ≠ is good
 
 **To say:**
@@ -142,6 +144,7 @@ It takes a few hours to learn, In Figma, you can’t hide behind fancy effects. 
 ---
 
 ### Iterations, iterations...
+
 In Figma, deleting your project is no big deal.
 Delete the whole file and start again. Explore. Experiment. Play.
 In Unreal, Cinema4D or Illustrator? That’s a mini existential crisis.
@@ -159,6 +162,7 @@ Because it's not a problem to finish a new and better version, because it's easy
 ---
 
 ### The skill gap trap
+
 Great idea.
 No clue how to make it real.
 — The curse of every design student
@@ -181,6 +185,7 @@ In Figma, you can play. The only limit is your own imagination. And if you do ru
 ---
 
 ### The Figma illusion
+
 >Just because I know how to use a lawnmower doesn't make me a landscaper.
 
 **To say:**
@@ -213,6 +218,7 @@ After years of using complex tools, I realized the best tool is the one that doe
 ---
 
 ### After-credit scenes
+
 And since I promised to show you different plugins and tips in my first mindmap, here are a few.
 
 **Variables**
