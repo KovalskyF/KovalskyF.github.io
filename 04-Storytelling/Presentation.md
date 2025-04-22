@@ -17,4 +17,4 @@ When I had a new mindmap I started working on the Outline.
 
 ## Final presentation
 
-🔗 [Presentation](/images/English_presentation_compressed.pdf)
+🔗 [Presentation](/images/English_presentation_final.pdf)
