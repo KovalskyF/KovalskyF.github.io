@@ -58,6 +58,7 @@ Cons? None.
 ### Simplicity, not simplification
 
 From Manifesto:
+
 >*Simplicity is not about less. It’s about what matters.*
 
 **To say:**
