@@ -16,7 +16,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Drafts >](02-first-impressions/Index.md)
 
-[Casestudy >](02-first-impressions/Casestudy.md)
+[**Casestudy >**](02-first-impressions/Casestudy.md)
 
 ### 03 - Casestudy
 
@@ -24,7 +24,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Visual storytelling >](03-Casestudy/Visual_Storytelling.md)
 
-[Final version (WIP) >](03-Casestudy/Case_study_final.md)
+[**Final version >**](03-Casestudy/Case_study_final.md)
 
 ### 04 - Storytelling
  
@@ -32,8 +32,4 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Outline >](04-Storytelling/Outline.md)
 
-[Presentation >](04-Storytelling/Presentation.md)
-
-### Figma
-
-[Figma Demo](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=188%3A380&node-id=188-381&p=f&viewport=718%2C183%2C0.28&t=jy1GzbKm5gPkorfR-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=188%3A381&hide-ui=1)
+[**Presentation >**](04-Storytelling/Presentation.md)
