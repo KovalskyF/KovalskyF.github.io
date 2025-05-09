@@ -56,17 +56,10 @@ My design approach focused on intuitive navigation and interactive features that
 Project caption:
 As a part of new visual identity I crafted fresh, engaging visuals for both the website and mobile app, breathing new life into their look and feel.
 
-Project details:
-WIP
 
 ### App for gallery
 Project caption:
 For this case study, I crafted a streamlined experience where users can easily buy tickets, explore featured exhibits in depth, and enjoy an immersive audio guide.
 
-Project details:
-WIP
-
-
-[Landing page and project description demo](https://www.figma.com/proto/DFEWDMyKjJfwbwaumcQDOy/Portfolio?page-id=0%3A1&node-id=23-18&node-type=canvas&viewport=-593%2C-102%2C0.35&t=WUpDh5W2tUZLsznx-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=23%3A18&hide-ui=1)
 
 [< Back to inspiration](Inspo.md)
