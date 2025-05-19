@@ -16,15 +16,15 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Drafts >](02-first-impressions/Index.md)
 
-[**Case study >**](02-first-impressions/Case-study.md)
+[**Case study >**](02-first-impressions/Casestudy.md)
 
 ### 03 - Case study
 
-[Case study headings >](03-Case-study/Case-study.md)
+[Case study headings >](03-Casestudy/Casestudy.md)
 
-[Visual storytelling >](03-Case-study/Visual_Storytelling.md)
+[Visual storytelling >](03-Casestudy/Visual_Storytelling.md)
 
-[**Final version >**](03-Case-study/Case_study_final.md)
+[**Final version >**](03-Casestudy/Case_study_final.md)
 
 ### 04 - Storytelling
  
