@@ -16,7 +16,7 @@ Welcome to the **English Assignments Repository**! This is where I hand out and 
 
 [Drafts >](02-first-impressions/Index.md)
 
-[**Case study >**](02-first-impressions/Casestudy.md)
+[**Case study >**](02-first-impressions/Final_texts.md)
 
 ### 03 - Case study
 
